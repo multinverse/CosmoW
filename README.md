@@ -1,7 +1,6 @@
 # CosmoW
 # 
-This set of codes was made by Alessandro Marins (University of Sao Paulo).
-For any questions, please, contact me in alessandro.marins@usp.br.
+This set of codes was made by Alessandro Marins (University of Sao Paulo) and are public codes. I only ask you to tell me if you use it.
 
 
 This is a set of cosmological codes in python for calculate 21cm angular power spectrum and make  Baryon Acoustic Oscillations analysis.
@@ -17,3 +16,4 @@ It will generate ".dat" files in cl directory.
 
 For BAO analisys, use Building_Clbao.py. This will generate files in clbao directory.
 
+For any questions, please, contact me in alessandro.marins@usp.br.
