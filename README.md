@@ -14,6 +14,6 @@ python Building_Cl.py --nbin 30 --lmin 1 --lmax 200
 for 30 numbers bins (number channels) and maximum and minimum multipole l.
 It will generate ".dat" files in cl directory.
 
-For BAO analisys, use Building_Clbao.py. This will generate files in clbao directory.
+For BAO analisys, use Building_Clbao.py. This will generate files in clbao directory (in construction).
 
 For any questions, please, contact me in alessandro.marins@usp.br.
